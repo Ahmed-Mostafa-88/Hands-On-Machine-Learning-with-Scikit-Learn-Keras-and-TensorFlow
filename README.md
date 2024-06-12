@@ -1,4 +1,5 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+![1 uZLw0bk6y8OBoBMoRh_l6Q](https://github.com/Ahmed-Mostafa-88/Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/assets/144740078/b31b7251-be8a-4498-ac12-5fdea88e3f90)
 
 Welcome to my GitHub repository where I will be explaining the code examples and projects from the book *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron.
 
@@ -34,7 +35,7 @@ Feel free to open issues or pull requests if you find any errors or have suggest
 
 ## Stay Connected
 
-Follow my blog series where I summarize each chapter and explain the code in detail: [My Blog](Your Blog URL)
+Follow my blog series where I summarize each chapter and explain the code in detail: [[My Blog](Your Blog URL)](https://medium.com/@ahmedmostafa_83300/exploring-machine-learning-with-hands-on-machine-learning-with-scikit-learn-keras-and-848acef5f595)
 
 Let's learn and explore the exciting world of Machine Learning together!
 
