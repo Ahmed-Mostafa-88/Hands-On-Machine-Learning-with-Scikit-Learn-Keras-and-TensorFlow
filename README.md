@@ -35,7 +35,7 @@ Feel free to open issues or pull requests if you find any errors or have suggest
 
 ## Stay Connected
 
-Follow my blog series where I summarize each chapter and explain the code in detail: [[My Blog](Your Blog URL)](https://medium.com/@ahmedmostafa_83300/exploring-machine-learning-with-hands-on-machine-learning-with-scikit-learn-keras-and-848acef5f595)
+Follow my blog series where I summarize each chapter and explain the code in detail: [[Blog](Blog URL)](https://medium.com/@ahmedmostafa_83300/exploring-machine-learning-with-hands-on-machine-learning-with-scikit-learn-keras-and-848acef5f595)
 
 Let's learn and explore the exciting world of Machine Learning together!
 
